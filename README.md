@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Slava
 - 👀 I’m interested in stock market analysis and algorithmic trading
-- 🌱 I’m currently learning SQL, Python, Julia
+- 🌱 I’m currently working with Python and KDB
 - 💞️ I’m looking to collaborate on Reinforcement learning agents
 - 📫 How to reach me: slava.v.nesterov@gmail.com
 
